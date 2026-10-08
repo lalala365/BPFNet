@@ -8,7 +8,7 @@ Referring Camouflaged Object Detection (Ref-COD) segments the camouflaged object
 
 ## Architecture
 
-![BPFNet architecture](BPFNet/architecture.png)
+![BPFNet architecture](assets/architecture.png)
 
 *Figure 2. Updated BPFNet architecture (author-provided).* 
 
